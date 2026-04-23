@@ -4,15 +4,16 @@
 
 ### 1. Oliver Bown
 - **Affiliation:** UNSW Sydney, Interactive Media Lab
-- **Key Papers:** Bown et al. (2025) "On Improvisation and Open-Endedness"; Bown (2021) *Beyond the Creative Species*
-- **Collab Angle:** Authors of the most directly relevant paper. Natural collaborators for developing the improvisation-OE bridge further. Bown brings deep expertise in computational creativity and ALife art. Could co-develop the theoretical framework or run joint empirical studies.
-- **Priority:** ★★★ Highest
+- **Key Papers:** Bown (2021) *Beyond the Creative Species*
+- **Collab Angle:** Deep expertise in computational creativity and ALife art. Could co-develop the theoretical framework or run joint empirical studies on the improvisation-OE bridge.
+- **Note:** arXiv:2511.00529 ("On Improvisation and Open-Endedness") is by Botao 'Amber' Hu, NOT Bown et al.
+- **Priority:** ★★ High
 
 ### 2. Petra Gemeinboeck
 - **Affiliation:** UNSW Sydney, Art & Design
-- **Key Papers:** Co-author on Bown et al. (2025); known for robotic art and performative installations
+- **Key Papers:** Known for robotic art and performative installations
 - **Collab Angle:** Expert in embodied/performative AI. Could contribute the artistic practice-based research dimension. Connects robotic embodiment with improvisational practice.
-- **Priority:** ★★★ High
+- **Priority:** ★★ Medium-High
 
 ### 3. Lisa B. Soros
 - **Affiliation:** Cross Labs, Cross Compass
@@ -76,7 +77,7 @@
 
 ## Collaboration Strategy
 
-1. **Inner circle (immediate):** Joel Lehman (already advisor), Oliver Bown & Petra Gemeinboeck (most aligned work)
+1. **Inner circle (immediate):** Joel Lehman (already advisor), Lisa Soros (CC-OE bridge), Keith Sawyer (improvisation theory)
 2. **Key collaborators (reach out):** Lisa Soros (CC-OE bridge), Keith Sawyer (improvisation theory), David Borgo (complexity-improv)
 3. **Extended network (workshops/panels):** Höök, Trajkova, Clune, Guckelsberger, Lewis, McCormack
 4. **Workshop strategy:** Propose an ALIFE or CHI workshop and invite all of the above

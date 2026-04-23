@@ -26,7 +26,7 @@ Despite these deep structural parallels, no existing work has systematically bui
 - Computational creativity meets improvisation (Lewis, 2000; Pachet, 2003)
 - ALife meets art (Whitelaw, 2004; McCormack, 2005)
 - Creativity meets open-endedness (Soros et al., 2024)
-- Improvisation meets experiential AI (Bown et al., 2025)
+- Improvisation meets experiential AI (Hu, 2025)
 
 But the specific synthesis — using improvisation theory to enrich OE frameworks and OE formalism to illuminate improvisational practice — remains unmade.
 
@@ -67,7 +67,7 @@ Body-based improvisation connects to OE through:
 The most rapidly growing subdomain:
 - **Pioneering systems**: Voyager (Lewis, 2000), The Continuator (Pachet, 2003), Shimon (Hoffman & Weinberg, 2011) — establishing that machines can be genuine improvisational partners, not just tools.
 - **Agency and initiative**: Mixed-initiative models where both human and AI take creative initiative (Deterding et al., 2017).
-- **Directly relevant**: Bown et al. (2025) explicitly connect improvisation to open-endedness through expert interviews — the closest existing work to our proposed project.
+- **Directly relevant**: Hu (2025) explicitly connects improvisation to open-endedness through expert interviews — this IS our work-in-progress paper being expanded.
 
 ### 2.6 Agent-Based Improvisation
 
@@ -112,14 +112,14 @@ Both fields grapple with what makes novelty valuable. OMNI (Faldor et al., 2024)
 Improvisation is fundamentally embodied (Höök, 2018; Novack, 1990) and situated (Suchman, 2007). Most OE research is disembodied and abstract. Embodied AI systems (LuminAI, Shimon) represent early attempts to bridge this gap, but a theoretical framework for embodied open-endedness is missing.
 
 ### Theme 4: Social Dynamics and Multi-Agent Emergence
-Both improvisation and OE are fundamentally collective. Sawyer's "collaborative emergence" in improv theater mirrors Baker et al.'s autocurricula in multi-agent RL. The social dimension — trust, risk, vulnerability (Bown et al., 2025) — is largely absent from OE research.
+Both improvisation and OE are fundamentally collective. Sawyer's "collaborative emergence" in improv theater mirrors Baker et al.'s autocurricula in multi-agent RL. The social dimension — trust, risk, vulnerability (Hu, 2025) — is largely absent from OE research.
 
 ### Theme 5: Tension Between Freedom and Constraint
 Improvisation requires structure to be generative (Berliner, 1994; Pressing, 1988). OE requires constraints — genotype-phenotype maps, environmental structure — to sustain novelty (Taylor et al., 2016). The productive tension between freedom and constraint is a shared design challenge.
 
 ## 4. Key Gaps Identified
 
-1. **No systematic theoretical bridge** between improvisation theory and OE research. Bown et al. (2025) begin this work but focus on experiential AI rather than OE formalism.
+1. **No systematic theoretical bridge** between improvisation theory and OE research. Hu (2025) begins this work in a WIP paper but focuses on experiential AI rather than OE formalism.
 
 2. **Missing "improvisational metrics" for OE**: OE metrics (Dolson et al., 2019) do not capture qualities valued in improvisation — responsiveness, risk-taking, aesthetic coherence, collaborative emergence.
 

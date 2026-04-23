@@ -15,7 +15,7 @@ We sit at an unoccupied intersection in the academic landscape. Three fields con
 Each pair has some existing bridges:
 - CC ↔ OE: Soros et al. (2024) explicitly bridges these
 - CC ↔ Improvisation: Lewis (2000), Pachet (2003), various co-creative systems
-- OE ↔ Improvisation: **Bown et al. (2025) — one paper, work in progress**
+- OE ↔ Improvisation: **Hu (2025) — our own WIP paper, being expanded**
 
 Nobody occupies the center of the triangle. That's us.
 
@@ -150,9 +150,9 @@ Each correspondence can be formalized mathematically and tested computationally.
 - **Paper A (ALIFE/Artificial Life journal):** The formal IOE framework. Focus on structural correspondences, design principles, and one computational experiment. Written for OE audience.
 - **Paper B (CHI/C&C):** The human-AI improvisation application. Focus on metrics, design implications, and empirical study. Written for HCI audience.
 
-### 2. Lead with Bown et al. (2025) as the Springboard
+### 2. Lead with the WIP Paper as the Foundation
 
-Their work-in-progress paper is perfect positioning: "Bown et al. have identified the connection; we formalize it." This avoids the impression we're making a claim nobody cares about.
+Our own WIP paper (Hu, 2025) established the initial connection through expert interviews. The CHI paper builds on this foundation: "We identified these themes in our WIP; now we formalize them into a design framework." This shows progression and depth.
 
 ### 3. Get the Edge-of-Chaos Formalization Right
 

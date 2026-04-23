@@ -95,7 +95,7 @@ Improvisation theory spans music, theater, dance, conversation, and organization
     URL: https://press.uchicago.edu/ucp/books/book/chicago/P/bo8274230.html
     - Philosophical analysis of improvisation across arts. Explores the ontology of improvised events — they are unique, unrepeatable, and emergent. Key concept: improvisation as "thinking in action."
 
-20. **Bown, O., Gemeinboeck, P., & Saunders, R. (2025). On improvisation and open-endedness: Insights for experiential AI.** arXiv:2511.00529.
+20. **Hu, Botao 'Amber' (2025). On improvisation and open-endedness: Insights for experiential AI.** arXiv:2511.00529.
     URL: https://arxiv.org/abs/2511.00529
     - **MOST DIRECTLY RELEVANT PAPER.** Interviews with 6 improvisation experts. Identifies themes: embodied sensing, emergence, constraint navigation, risk-taking, "not knowing." Positions improvisation as key to understanding open-ended AI.
 

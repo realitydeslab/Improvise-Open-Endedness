@@ -73,9 +73,9 @@ This subdomain covers systems where humans and AI agents engage in real-time cre
 
 ## Directly Relevant to This Project
 
-16. **Bown, O., Gemeinboeck, P., & Saunders, R. (2025). On improvisation and open-endedness: Insights for experiential AI.** arXiv:2511.00529.
+16. **Hu, Botao 'Amber' (2025). On improvisation and open-endedness: Insights for experiential AI.** arXiv:2511.00529.
     URL: https://arxiv.org/abs/2511.00529
-    - **MOST DIRECTLY RELEVANT PAPER.** Work-in-progress connecting improvisation to open-endedness through interviews with 6 experts in dance, music, and contact improvisation. Identifies themes including: embodied sensing, emergence, constraint navigation, risk-taking, and the role of "not knowing." Must be carefully positioned against.
+    - **THIS IS OUR WIP PAPER being expanded into a full CHI 2027 submission.** Interviews 6 improvisation experts (dance, music, contact improv). Identifies themes: active listening, being in the time, embracing the unknown, non-judgmental flow, balancing structure and surprise, imaginative metaphor, empathy/trust/care, playfulness. Sole author: Botao 'Amber' Hu.
 
 17. **Ladenheim, K., et al. (2024). Human-AI co-dancing: Evolving cultural heritage through collaborative choreography with generative virtual characters.** In *Proc. MOCO 2024*. ACM.
     DOI: https://doi.org/10.1145/3658852.3661317
@@ -95,4 +95,4 @@ This subdomain covers systems where humans and AI agents engage in real-time cre
 - **Embodiment matters**: Physical robots (Shimon, Haile) create different improvisational dynamics than screen-based systems
 - **Style and personality**: Effective AI improvisers develop recognizable creative voices (Lewis's Voyager, Pachet's Continuator)
 - **Real-time responsiveness**: Improvisation demands millisecond-level perception-action coupling
-- **Social dynamics**: Improvisation is not just technical — it involves trust, risk, vulnerability (Bown et al. 2025)
+- **Social dynamics**: Improvisation is not just technical — it involves trust, risk, vulnerability (Hu, 2025)
